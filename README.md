@@ -1,11 +1,17 @@
 # Sass-Sample
 //npm install -g sass
+
 // goto VBCode install live sass 3.0
+
 // goto settings search for live sass
+
 // Click on "Edit in settings.json"
+
 // modify or add below content
+
 /*
-    "liveSassCompile.settings.formats": [
+     "liveSassCompile.settings.formats": [
+     
         {
             //"format": "expanded",
             "format": "compressed",
@@ -15,6 +21,7 @@
             "savePath": "/css"
         }
     ],
+    
     "liveSassCompile.settings.generateMap": false,
 */
 
